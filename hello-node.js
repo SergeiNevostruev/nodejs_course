@@ -1,0 +1,1 @@
+console.log('Hello, Nodejs', process.argv);
