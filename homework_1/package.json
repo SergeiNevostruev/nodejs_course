@@ -1,0 +1,12 @@
+{
+  "name": "homework_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quadratic_equation.js",
+  "scripts": {
+    "start": "node src/quadratic_equation.js",
+    "help": "node src/quadratic_equation.js -help"
+  },
+  "author": "NevostruevSN",
+  "license": "ISC"
+}
